@@ -9,3 +9,17 @@ body{
 header{
     font-size: 36px;
 }
+
+.mainCouple{
+    margin: 10px;
+}
+
+.mainPets{
+    margin: 10px;
+}
+
+.footerContainer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
