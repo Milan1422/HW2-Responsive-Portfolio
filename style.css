@@ -1,0 +1,11 @@
+body{
+    background-color: lightgray;
+}
+
+.mainContainer{
+    background-color: white;
+}
+
+header{
+    font-size: 36px;
+}
