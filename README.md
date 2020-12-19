@@ -25,8 +25,8 @@ I see how strong of a tool BS is when doing front end development and once I can
 ![Contact Page](images/contactcomp.png)
 ![About Me Page](images/Aboutmecomp.png)
 
-[GitHub:] 
-[GitHubPages:]
+[GitHub:] https://github.com/Milan1422/HW2-Responsive-Portfolio
+[GitHubPages:] https://milan1422.github.io/HW2-Responsive-Portfolio/.
 
 
 
